@@ -1,1 +1,1 @@
-** Created my first electron app!
+* Created my first electron app!
